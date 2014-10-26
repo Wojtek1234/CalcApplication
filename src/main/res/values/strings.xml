@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CalcApplication</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="wynik">Wynik:</string>
+    <string name="argument1">Pierwszy argument</string>
+    <string name="argument2">Drugi argument</string>
+    <string name="operation">Operacja</string>
+
+</resources>
